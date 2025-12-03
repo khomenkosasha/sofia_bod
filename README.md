@@ -38,6 +38,10 @@ This repository supports:
 * A transferable methodological framework for other cities.
 * Evidence-based urban planning and health policy.
 
+## Data availability 
+
+The input and output data from this analyzis are stored in the Zenodo repository: https://zenodo.org/records/17799811 (INPUT DATA) AND https://zenodo.org/records/17800432 (OUTPUT DATA) 
+
 ## License
 
 This project is licensed under the **GPL-3.0** license.
