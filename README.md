@@ -40,7 +40,7 @@ This repository supports:
 
 ## Data availability 
 
-The input and output data from this analyzis are stored in the Zenodo repository: https://zenodo.org/records/17799811 (INPUT DATA) AND https://zenodo.org/records/17800432 (OUTPUT DATA) 
+The input and output data from this analysis are stored in the Zenodo repository: https://zenodo.org/records/17799811 (INPUT DATA) AND https://zenodo.org/records/17800432 (OUTPUT DATA) 
 
 ## License
 
